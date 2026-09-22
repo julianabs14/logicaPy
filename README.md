@@ -9,16 +9,17 @@
 
 ---
 
-Neste repositório há práticas de lógicas, desde estruturas condições a estrutura de dados mais complexas. O intuito é praticar com pequenas práticas e aplicando melhorias ao decorrer dos códigos.
+Neste repositório há práticas de lógica, desde estruturas condicionais a estruturas de dados mais complexas. O intuito é praticar com pequenos exercícios, aplicando melhorias ao decorrer dos códigos.
 
-Os exercícios são dos cursos de python do Gustavo guanabra ([link](https://www.cursoemvideo.com/)), freecodecam ([link](https://www.freecodecamp.org/)) e exercícios desenvolvidos com base em experiências reais.
+Os exercícios são dos cursos de Python do Gustavo Guanabara ([Curso em Vídeo](https://www.cursoemvideo.com/)), freeCodeCamp ([link](https://www.freecodecamp.org/)) e exercícios desenvolvidos com base em experiências reais.
 
-A ideia é resolver pequenas tarefas reais com código, mesmo que simples. A base é o alicesso para atividades mais complexas.
+A ideia é resolver pequenas tarefas reais com código, mesmo que simples. Essa é a base para atividades mais complexas.
 
 ---
 
 <div align="center">
 
-🌷 [link](https://www.linkedin.com/in/juliana-bezerra-03b8562b4/) 🌷
+🌷 [LinkedIn](https://www.linkedin.com/in/juliana-bezerra-03b8562b4/) 🌷
 
 </div>
+
