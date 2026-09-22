@@ -23,3 +23,27 @@ A ideia é resolver pequenas tarefas reais com código, mesmo que simples. Essa 
 
 </div>
 
+<div align="center">
+
+# 🌸 Logic Practice 🌸
+
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-in%20progress-FFB6C1?style=for-the-badge)
+
+</div>
+
+---
+
+This repository contains logic practice exercises, ranging from conditional structures to more complex data structures. The goal is to practice with small exercises, applying improvements to the code over time.
+
+The exercises come from Gustavo Guanabara's Python course ([link]()), freeCodeCamp ([link]()), and exercises developed based on real-world experience.
+
+The idea is to solve small, real tasks through code, even if simple. This is the foundation for more complex projects.
+
+---
+
+<div align="center">
+
+🌷 [LinkedIn]() 🌷
+
+</div>
